@@ -1,0 +1,46 @@
+.container{
+    background-color: black;
+    padding-left: 35%;
+    padding-top: 8%;
+    padding-bottom: 3%;
+    justify-content: center;
+    color: white;
+    
+}
+
+.container .result{
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.heading{
+    margin-left: 40%;
+    font-style: italic;
+    font: bold;
+}
+
+.diceRollButton{
+    cursor: pointer;
+}
+
+#winner{
+    cursor: pointer;
+}
+
+.dice_img1{
+    position: absolute;
+  top: 0;
+  left: 0;
+  width: 10%;
+  height: 13%;
+  margin-left: 8px;
+}
+
+.dice_img2{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 10%;
+  height: 13%;
+  margin-right: 8px;
+}
